@@ -1,7 +1,7 @@
 ﻿var x = prompt ('Введите число');
 var n = prompt ('Введите степень');
-var x = +x;
-var n = +n;
+    x = +x;
+    n = +n;
     x = Math.floor(x);
     n = Math.floor(n);
 
